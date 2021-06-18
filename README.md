@@ -7,3 +7,5 @@ Files ending in ".py" are the scripts used for the process.
 "Automobile Most sold" and "Motorcycle Most sold" are the output of both respective most sold scripts.
 
 "Automobile Raw Data" and "Motorcycle Raw Data" are the output of both respective Cleaning scripts.
+
+For questions, please feel free to contact me: philip.douw@outlook.com
